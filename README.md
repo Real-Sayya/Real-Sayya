@@ -11,12 +11,13 @@
 ### :woman_technologist: About me :
 <p align="center"><b>🕹 Devloperin from Germany<b/><p/>
 <p align="center"><b>🙎🏼‍♂️ Name: Lena
-                        Age: 19<b/><p/>
-<p align="center"><b>📫 Discord bots and Websites.<b/><p/>
+                        Age: 20<b/><p/>
+<p align="center"><b>📫 Discord bots and Python.<b/><p/>
 
 ---
 ### 🟢 My Status
-<iframe src="https://discord.com/widget?id=913082943495344179&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<iframe src="https://discord.com/widget?id=913082943495344179&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
+</iframe>
 
 ---
 
