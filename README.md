@@ -16,8 +16,7 @@
 
 ---
 ### 🟢 My Status
-<iframe src="https://discord.com/widget?id=913082943495344179&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
-</iframe>
+<iframe src="https://discord.com/widget?id=836835738800095242&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ---
 
