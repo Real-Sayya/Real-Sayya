@@ -14,7 +14,6 @@
                         Age: 20<b/><p/>
 <p align="center"><b>📫 Discord bots and Python.<b/><p/>
 
----
 <!-- 🟢 My Status -->
 <iframe 
   src="https://discord.com/widget?id=1356278624411713676&theme=dark" 
@@ -23,7 +22,6 @@
   style="border: none;" 
   sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts">
 </iframe>
----
 
 ### :hammer_and_wrench: My Skills:
 <div align="center">
