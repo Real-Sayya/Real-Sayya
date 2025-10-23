@@ -1,58 +1,86 @@
+<!-- ──────────────────────────────────────────────── -->
+<!-- 🌸 LENCHEN 💕 | Profile README -->
+<!-- ──────────────────────────────────────────────── -->
+
 <div align="center">
-  <a href="https://discord.gg/ufEjGrbYWw">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="https://gsv2.dev">
-    <img src="https://img.shields.io/badge/Website-gsv2.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website Badge"/>
-  </a>
+
+<img src="https://i.imgur.com/z4dYwZp.png" width="120" alt="divider"/>
+
+# 💕 Lenchen
+### 🩷 Developer • Founder of GSv2.0 • Python Enthusiast
+
+[![Discord](https://img.shields.io/badge/Discord-%23ffb6c1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ufEjGrbYWw)
+[![Website](https://img.shields.io/badge/Website-gsv2.dev-%23ff4fa3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gsv2.dev)
+
+<img src="https://i.imgur.com/z4dYwZp.png" width="120" alt="divider"/>
+
 </div>
 
 ---
 
-### 👩‍💻 About Me
+### 💫 About Me
 
-<p align="center"><b>🕹 Developer from Germany</b></p>
-<p align="center"><b>🙎🏼‍♀️ Name:</b> Lena</p>
-<p align="center"><b>🎂 Age:</b> 20</p>
-<p align="center"><b>📫 Focus:</b> Discord bots & Python development</p>
+<p align="center">
+  <b>🎀 Developer from Germany</b><br>
+  <b>🙎🏼‍♀️ Name:</b> Lena — <b>Age:</b> 20<br>
+  <b>💻 Focus:</b> Discord bots, automation & Python development<br>
+  <b>🪄 Motto:</b> “I build systems that feel alive.”
+</p>
 
 ---
 
 ### 🟢 My Discord Status
-
 <div align="center">
-
-[![Discord Widget](https://discord.c99.nl/widget/theme-4/1356278624411713676.png)](https://discord.gg/ufEjGrbYWw)
-
+  <a href="https://discord.gg/ufEjGrbYWw">
+    <img src="https://discord.c99.nl/widget/theme-4/1356278624411713676.png" width="400" alt="Discord Status"/>
+  </a>
 </div>
-
-*(GitHub blocks iframes, so this version uses an external widget that works perfectly.)*
 
 ---
 
 ### 🛠️ My Skills
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,sqlite,vscode,github&theme=dark" alt="skills icons"/>
 </div>
 
 ---
 
-### 💻 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  
-![Lenchen 💕's GitHub stats](https://github-readme-stats.vercel.app/api?username=Real-Sayya&show_icons=true&theme=radical&hide_border=true&border_radius=12)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Real-Sayya&show_icons=true&bg_color=0d1117&title_color=ff66cc&text_color=ffffff&icon_color=ffb6c1&hide_border=true&border_radius=12" width="450" alt="GitHub Stats"/>
 
 </div>
 
 ---
 
-### ⚡ Fun Fact
-> “Code is just magic — written with syntax errors.” ✨  
-> I’m the owner of **GSv2.0**, a project that aims to deliver **high-quality software, completely free of charge.**
+### 🌸 Projects & Focus
+
+💎 **GSv2.0** — Independent development initiative for free, high-quality software.  
+⚙️ Specialized in **Discord automation**, **bot architecture**, and **data handling**.  
+🪶 Built with **clarity, precision, and a love for structure**.
 
 ---
+
+### 💬 Fun Fact
+> “Every elegant system hides a story — and every bug, a lesson.” 💭
+
+<div align="center">
+  <img src="https://i.imgur.com/z4dYwZp.png" width="120" alt="divider"/>
+</div>
+
+---
+
+### 🌐 Contact
+📫 **Mail:** admin@gsv2.dev  
+🌍 **Website:** [https://gsv2.dev](https://gsv2.dev)  
+💞 **Discord:** [Join my community](https://discord.gg/ufEjGrbYWw)
+
+---
+
+<div align="center">
+  <sub>✨ Designed with care by <b>Lenchen 💕</b> | Powered by GSv2.0 ⚡</sub>
+</div>
+
