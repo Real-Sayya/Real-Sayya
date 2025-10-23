@@ -9,8 +9,8 @@
 # 💕 Lenchen
 ### 🩷 Developer • Founder of GSv2.0 • Python Enthusiast
 
-[![Discord](https://img.shields.io/badge/Discord-%23ffb6c1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/ufEjGrbYWw)
-[![Website](https://img.shields.io/badge/Website-gsv2.dev-%23ff4fa3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gsv2.dev)
+[![Discord](https://img.shields.io/badge/Discord-%23ffb6c1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/psfGCKqxc4)
+[![Website](https://img.shields.io/badge/Website-gsv2.com-%23ff4fa3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gsv2.com)
 
 <img src="https://i.imgur.com/z4dYwZp.png" width="120" alt="divider"/>
 
@@ -31,8 +31,8 @@
 
 ### 🟢 My Discord Status
 <div align="center">
-  <a href="https://discord.gg/ufEjGrbYWw">
-    <img src="https://discord.c99.nl/widget/theme-4/1356278624411713676.png" width="400" alt="Discord Status"/>
+  <a href="https://discord.gg/psfGCKqxc4">
+    <img src="https://discord.c99.nl/widget/theme-4/1430023435349917831.png" width="400" alt="Discord Status"/>
   </a>
 </div>
 
@@ -75,8 +75,8 @@
 
 ### 🌐 Contact
 📫 **Mail:** admin@gsv2.dev  
-🌍 **Website:** [https://gsv2.dev](https://gsv2.dev)  
-💞 **Discord:** [Join my community](https://discord.gg/ufEjGrbYWw)
+🌍 **Website:** [https://gsv2.dev](https://gsv2.com)  
+💞 **Discord:** [Join my community](https://discord.gg/psfGCKqxc4)
 
 ---
 
