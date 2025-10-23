@@ -75,7 +75,7 @@
 
 ### 🌐 Contact
 📫 **Mail:** admin@gsv2.dev  
-🌍 **Website:** [https://gsv2.dev](https://gsv2.com)  
+🌍 **Website:** [https://gsv2.com](https://gsv2.com)  
 💞 **Discord:** [Join my community](https://discord.gg/psfGCKqxc4)
 
 ---
