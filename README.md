@@ -32,7 +32,7 @@
 ### 🟢 My Discord Status
 <div align="center">
   <a href="https://discord.gg/psfGCKqxc4">
-    <img src="https://discord.c99.nl/widget/theme-4/1430023435349917831.png" width="400" alt="Discord Status"/>
+    <img src="https://discord.c99.nl/widget/theme-4/836835738800095242.png" width="400" alt="Discord Status"/>
   </a>
 </div>
 
