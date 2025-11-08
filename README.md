@@ -4,16 +4,11 @@
 
 <div align="center">
 
-<img src="https://i.imgur.com/z4dYwZp.png" width="120" alt="divider"/>
-
 # 💕 Lenchen
 ### 🩷 Developer • Founder of GSv2.0 • Python Enthusiast
 
-[![Discord](https://img.shields.io/badge/Discord-%23ffb6c1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/psfGCKqxc4)
+[![Discord](https://img.shields.io/badge/Discord-%23ffb6c1?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3A7UkpaPy3)
 [![Website](https://img.shields.io/badge/Website-gsv2.com-%23ff4fa3?style=for-the-badge&logo=google-chrome&logoColor=white)](https://gsv2.com)
-
-<img src="https://i.imgur.com/z4dYwZp.png" width="120" alt="divider"/>
-
 </div>
 
 ---
@@ -68,7 +63,6 @@
 > “Every elegant system hides a story — and every bug, a lesson.” 💭
 
 <div align="center">
-  <img src="https://i.imgur.com/z4dYwZp.png" width="120" alt="divider"/>
 </div>
 
 ---
