@@ -68,9 +68,9 @@
 ---
 
 ### 🌐 Contact
-📫 **Mail:** admin@gsv2.dev  
+📫 **Mail:** support@gsv2.com  
 🌍 **Website:** [https://gsv2.com](https://gsv2.com)  
-💞 **Discord:** [Join my community](https://discord.gg/psfGCKqxc4)
+💞 **Discord:** [Join my community](https://discord.gg/3A7UkpaPy3)
 
 ---
 
