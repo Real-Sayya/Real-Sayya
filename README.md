@@ -27,7 +27,7 @@
 ### 🟢 My Discord Status
 <div align="center">
   <a href="https://discord.gg/psfGCKqxc4">
-    <img src="https://discord.c99.nl/widget/theme-4/836835738800095242.png" width="400" alt="Discord Status"/>
+    <img src="https://lanyard.cnrad.dev/api/836835738800095242?theme=dark&borderRadius=5px&idleMessage=Probably%20doing%20something%20cool..." width="400" alt="Discord Status"/>
   </a>
 </div>
 
